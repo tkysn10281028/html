@@ -1,1 +1,1 @@
-https://RyoYoshida.io/html/index.html
+https://RyoYoshida.github.io/html/index.html
